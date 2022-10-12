@@ -1,0 +1,3 @@
+how to change markdown font color
+
+foo <font color='red'>bar</font> foo
