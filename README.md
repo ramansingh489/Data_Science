@@ -1,3 +1,2 @@
-# iNeuron-Task-DSA
+# iNeuron-DSA
 
-This is assignment repository given by Sudhanshu.
